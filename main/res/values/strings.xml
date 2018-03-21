@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">iDetect</string>
+    <string name="explanation">Detection Screenshot:</string>
+    <string name="explanation1">Platform Type:</string>
+    <string name="explanation4">Report Details and Action Taken:</string>
+    <string name="explanation5"></string>
+    <string name="explanation15">Refresh Fields</string>
+    <string name="share">Send Report</string>
+    <string name="send_intent_title">Send a message via:</string>
+    <string name="to">To:</string>
+    <string name="send">Send</string>
+    <string name="body">Body:</string>
+    <string name="screenshot_take_failed">Failed to take screenshot!!</string>
+    <string name="text_to_share">Enter text here</string>
+    <string-array name="platform_spinner">
+        <item>Instant Messaging</item>
+        <item>Social Media / Networking</item>
+        <item>Near-Field Communications</item>
+        <item>Email</item>
+        <item>Cloud Storage</item>
+        <item>PDF Readers</item>
+        <item>Public Wi-Fi</item>
+        <item>Private Wi-Fi</item>
+        <item>E-commerce</item>
+    </string-array>
+    <string-array name="im_spinner">
+        <item>WhatsApp</item>
+        <item>FB Messenger</item>
+        <item>SMS</item>
+    </string-array>
+    <string-array name="sm_spinner">
+        <item>Facebook</item>
+        <item>Twitter</item>
+    </string-array>
+    <string-array name="nfc_spinner">
+        <item>QR Codes</item>
+        <item>Contactless (Cards / Mobile)</item>
+    </string-array>
+    <string-array name="e_spinner">
+        <item>Gmail</item>
+        <item>Outlook</item>
+        <item>Mail.com</item>
+        <item>Android Mail</item>
+    </string-array>
+    <string-array name="cl_spinner">
+        <item>Google Drive</item>
+        <item>Dropbox</item>
+        <item>OneDrive</item>
+    </string-array>
+    <string-array name="pdf_spinner">
+    <item>Adobe Reader</item>
+    <item>Google Drive Reader</item>
+    <item>Android Reader</item>
+    </string-array>
+    <string-array name="public_spinner">
+        <item>Cafe</item>
+        <item>Shopping Centre</item>
+        <item>City Hotspot</item>
+        <item>Residential Hotspot</item>
+        <item>The Cloud (School/College)</item>
+        <item>Work</item>
+    </string-array>
+    <string-array name="private_spinner">
+        <item>Work</item>
+        <item>School/College</item>
+    </string-array>
+    <string-array name="ecommerce_spinner">
+        <item>Amazon</item>
+    </string-array>
+</resources>

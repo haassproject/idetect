@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="Theme.Base" parent="android:Theme.Material.Light"></style>
+    <style name="Theme.FixedSize" parent="android:Theme.Material.Light">
+      <!--  <item name="actionBarSize">48dip</item>
+        <item name="android:actionBarSize">48dip</item>     -->
+    </style>
+</resources>
+
+
+
